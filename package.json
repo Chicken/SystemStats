@@ -1,0 +1,17 @@
+{
+  "name": "systemstats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "lint": "eslint . --fix"
+  },
+  "author": "Antti <antti@antti.codes>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mariadb": "^2.5.3",
+    "node-cron": "^3.0.0",
+    "systeminformation": "^5.6.7"
+  }
+}
