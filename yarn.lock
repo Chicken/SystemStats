@@ -83,7 +83,7 @@ semver-compare@^1.0.0:
   resolved "https://registry.yarnpkg.com/semver-compare/-/semver-compare-1.0.0.tgz#0dee216a1c941ab37e9efb1788f6afc5ff5537fc"
   integrity sha1-De4hahyUGrN+nvsXiPavxf9VN/w=
 
-systeminformation@^5.6.11:
-  version "5.6.11"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.6.11.tgz#f17b43e8197626d90c979536539d6b578a8c53ab"
-  integrity sha512-xdnN8NxeV537ETVytDCBPSqabKHZ+Kk6Vue6LzyvK5MsbqAaJYocIrD3JmTEPeFmFhW25r5RbwenMC9D597eOw==
+systeminformation@^5.6.12:
+  version "5.6.12"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.6.12.tgz#cdb8338eef48c219352d95f2b0839f9ad5399fae"
+  integrity sha512-prJAt+iS2ITeygjLt/FGtN1qsIQHrRePCUqWtP0hGv6JsS0LSQTR+y5hWAd4frUIM/sjG95jHFUK1gx244KwUA==
