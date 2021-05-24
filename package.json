@@ -9,7 +9,7 @@
   "author": "Antti <antti@antti.codes>",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^9.0.2",
+    "dotenv": "^10.0.0",
     "mariadb": "^2.5.3",
     "node-cron": "^3.0.0",
     "systeminformation": "^5.7.1"
